@@ -2,4 +2,6 @@
 
 ## Frontend
 
-Made using phonegap
+Made using phonegap in material design.
+
+ver0.2
